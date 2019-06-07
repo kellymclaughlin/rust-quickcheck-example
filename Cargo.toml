@@ -1,0 +1,9 @@
+[package]
+name = "quickcheck-example"
+version = "0.1.0"
+authors = ["Kelly McLaughlin <kelly.mclaughlin@joyent.com>"]
+edition = "2018"
+
+[dependencies]
+quickcheck = "0.8.3"
+rand = "0.6.4"
